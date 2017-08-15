@@ -1,0 +1,12 @@
+com\ak\service\StudentService.class
+com\ak\controller\StudentController.class
+com\ak\main\Main.class
+com\ak\entity\Book.class
+com\ak\dao\BookRepository.class
+com\ak\service\BookServiceImpl.class
+com\ak\service\BookService.class
+com\ak\controller\BookController.class
+com\ak\service\StudentServiceImpl.class
+com\ak\dao\StudentRepository.class
+com\ak\entity\Address.class
+com\ak\entity\Student.class

@@ -1,0 +1,8 @@
+JPA - standard, który implementuje hibernate
+
+najpierw tworzymy pakiet entity z klasą student
+osobno pakiet main z mainem
+w resources odpowiednie pomy
+plik sql z tabelą i osobny plik sql z insertami (inicjalizacja w bazie)
+
+zrobić odpowiednie pakiety interfacy i klasy
